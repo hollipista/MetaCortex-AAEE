@@ -1,6 +1,11 @@
 # MetaCortex-AAEE
 MetaCortex - Adatalapú eseményelemzés beadandó
 
+# Évforduló, mint esemény:
+9/11 évfordulójának hatása különböző iparágak részvény hozamaira
+Hollósi István, Megyeri Ildikó, Szabó Gábor, Vasvári Gábor
+
+
 01_MetaCortex_AAEE_prep:
 - adatok betöltése Dropboxról
     - adatok letöltése: CRSP - 2023. november 10. / SP500 - 2023. november 16. / FF3 - 2023. november 20.
