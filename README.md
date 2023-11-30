@@ -2,7 +2,8 @@
 MetaCortex - Adatalapú eseményelemzés beadandó
 
 # Évforduló, mint esemény:
-9/11 évfordulójának hatása különböző iparágak részvény hozamaira
+# 9/11 évfordulójának hatása különböző iparágak részvény hozamaira
+
 Hollósi István, Megyeri Ildikó, Szabó Gábor, Vasvári Gábor
 
 
