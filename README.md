@@ -10,5 +10,12 @@ MetaCortex - Adatalapú eseményelemzés beadandó
 - Napi loghozamok képzése
 - Dátum formázások
 
-- 02_MetaCortex_AAEE_anal:
-- 
+02_MetaCortex_AAEE_anal_linked:
+- adatok betöltése Dropboxról
+- SIC kód fordítótáblák próbálgatása, majd elvetése
+- merge
+- iparági csoportok képzése
+- leíró táblák
+- portfólióképzés, MM és FF3 futtatása loopban minden iparágra
+
+03
