@@ -18,4 +18,5 @@ MetaCortex - Adatalapú eseményelemzés beadandó
 - leíró táblák
 - portfólióképzés, MM és FF3 futtatása loopban minden iparágra
 
-03
+03_sp500_chart:
+- S&P 500 szeptemberi napi hozamok 20 évre - chart
